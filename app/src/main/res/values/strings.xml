@@ -1,0 +1,28 @@
+<resources>
+    <string name="MainActivity2">LiniearLayout</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="done">Done</string>
+    <string name="reminder">Alert</string>
+    <string name="Login">Login</string>
+    <string name="app_name">Dashboard</string>
+    <string name="_1">Linear</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="_2">Relative</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="_3">Linear</string>
+    <string name="_4">Frame</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="_5">Tabel</string>
+    <string name="table_layout">Tabel Layout</string>
+    <string name="_6">Material</string>
+    <string name="material_design">Material Design</string>
+    <string name="_7">SVertical</string>
+    <string name="scroll_view">ScrollView Vertikal</string>
+    <string name="_8">SHorizontal</string>
+    <string name="scroll_view_horizontal">ScrollView Horizontal</string>
+    <string name="login">Selamat Datang</string>
+    <string name="in">Di Halaman Dashboard</string>
+</resources>
